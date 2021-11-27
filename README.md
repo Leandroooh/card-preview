@@ -10,9 +10,7 @@
 
 <img src="https://i.imgur.com/TLalotU.jpg" alt="final-result">
 
-<br>
-    > Project created based on the challenge of <a href="http://frontendmentor.io/">FrontEnd Mentor</a>.
-<br>
+> Project created based on the challenge of <a href="http://frontendmentor.io/">FrontEnd Mentor</a>.
 
 ****
 
