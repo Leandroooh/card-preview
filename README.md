@@ -11,4 +11,4 @@
 > Project created based on the challenge of <a href="http://frontendmentor.io/">FrontEnd Mentor</a>.
 
 ****
-[⬆ Voltar ao topo](#CardPreview)<br>    
+[⬆ Voltar ao topo](#CardPreview)<br>  
