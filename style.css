@@ -152,11 +152,22 @@ body {
   margin: 2.4rem 0 2.4rem 0;
 }
 
-.info-container span {
-  font-size: 2rem;
+.ethereum-info, .days-info {
+  display: flex;
+
+  font-size: 1.8rem;
+
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
 }
 
-.info-container span:first-child {
+.ethereum-info img, .days-info img {
+  margin-right: 5px;
+}
+
+.ethereum-info p {
   color: var(--hover-color);
 }
 
